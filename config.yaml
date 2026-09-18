@@ -1,0 +1,12 @@
+qq_bot:
+  app_id: "your_app_id"
+  app_secret: "your_app_secret"
+  ngrok_token: "your_ngrok_token"
+  webhook_port: 9000
+
+auth:
+  allowed_users:
+    - "your_QQ_openid"
+
+codex:
+  workspace: "E:/codex"

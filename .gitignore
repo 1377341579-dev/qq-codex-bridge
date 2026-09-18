@@ -1,0 +1,8 @@
+ 
+# Config with secrets  
+config.local.yaml  
+temp/  
+session_track.json  
+log.txt  
+log_err.txt  
+__pycache__/ 
