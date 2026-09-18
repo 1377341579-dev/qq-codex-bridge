@@ -1,4 +1,3 @@
-好的，你直接复制这段到 GitHub 网页编辑 README.md 就行：
 # QQ-Codex Bridge
 
 Chat with Codex remotely via QQ from your phone. Shares the same workspace with the desktop Codex app.
